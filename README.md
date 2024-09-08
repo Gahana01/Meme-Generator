@@ -15,7 +15,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 1. Clone the repository:
 
- # git clone https://github.com/Gahana01/Meme-Generator/.git
+ # git clone https://github.com/Gahana01/Meme-Generator.git
 
 2. Navigate to the project directory:
 
